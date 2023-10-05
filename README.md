@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Me163/rusty_llama/main/demo.gif" />
 </picture>
 
-# Rusty Llama Webapp
+# Citizen Scribe Webapp
 A simple webapp to showcase the ability to write a simple chatbot webapp using only Rust, TailwindCSS and an Open Source language model such as a variant of GPT, LLaMA, etc.
 
 ## Setup Instructions
